@@ -1,7 +1,7 @@
 # 💫 About Me:
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> <br>
 4th Year Computer Science student graduating in summer 2026!<br>Working as Co-Op Cloud DevOps @Nutrien!<br><br>
 ![](https://komarev.com/ghpvc/?username=Moeeznagra&label=Profile%20Visits&color=blue&style=for-the-badge)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeeznagra) 
 
