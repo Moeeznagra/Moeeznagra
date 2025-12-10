@@ -1,6 +1,6 @@
 # 💫 About Me:
-4th Year Computer Science student graduating in summer 2026!<br>Working as Co-Op Cloud DevOps @Nutrien!
-
+4th Year Computer Science student graduating in summer 2026!<br>Working as Co-Op Cloud DevOps @Nutrien!<br><br>
+![](https://komarev.com/ghpvc/?username=Moeeznagra&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeeznagra) 
