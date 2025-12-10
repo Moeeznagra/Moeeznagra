@@ -1,7 +1,6 @@
 # Hi there, I'm Moeez Nagra 👋
 
-Welcome to my GitHub profile! I’m a **Cloud DevOps Engineer**, **Computer Science student**, and an **AI‑powered creator** passionate about building efficient systems, automation workflows, and creative digital experiences.
-
+Welcome to my GitHub profile!
 ---
 
 # 💫 About Me:
