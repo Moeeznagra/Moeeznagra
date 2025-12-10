@@ -1,6 +1,5 @@
 # Hi there, I'm Moeez Nagra 👋
 
-Welcome to my GitHub profile!
 ---
 
 # 💫 About Me:
