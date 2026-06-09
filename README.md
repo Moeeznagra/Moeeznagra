@@ -4,7 +4,6 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> <br>
 🎓 CS **@University of Saskatchewan** <br>
 ☁️ Co-op Cloud DevOps **@Nutrien**  
-🚀 Founder of **[Refonte](https://refonte.app)** — AI-powered interior design SaaS  
 
 ![](https://komarev.com/ghpvc/?username=Moeeznagra&label=Profile%20Visits&color=blue&style=for-the-badge)
 ## 🌐 Socials:
